@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876580250539",
+    "firebase_url": "https://la8eni.firebaseio.com",
+    "project_id": "la8eni",
+    "storage_bucket": "la8eni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876580250539:android:dfae16a4143efafd3aa8ee",
+        "android_client_info": {
+          "package_name": "com.klmni.la8eni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876580250539-0ruqj6l6d44k5ed7s57g4g3c1pampnrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klmni.la8eni",
+            "certificate_hash": "85ac16a3b2d3054faff9e5f05f7fb52cdae3bf7c"
+          }
+        },
+        {
+          "client_id": "876580250539-17h2ki7vg7hdm20rj14vk39mlh8n7ra8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc87U4ORLDCcsaLr8pPMe0n-qse9q_YcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876580250539-17h2ki7vg7hdm20rj14vk39mlh8n7ra8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
